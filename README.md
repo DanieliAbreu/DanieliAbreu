@@ -1,5 +1,5 @@
  <h1 align="center"> Bem-vindo(a) sou Danieli Abreu 😁</h1>
- <h5 align="rigth">Sou estudante de Análise e Desenvolvimento de Sistemas em transição de carreira. Aqui você poderá encontrar meus projetos e estudos de minha jornada.</h5>
+ <h5 align="rigth">Sou estudante de Análise e Desenvolvimento de Sistemas em transição de carreira. Aqui você poderá encontrar meus projetos e estudos desta jornada.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanieliAbreu&label=Profile%20views&color=0e75b6&style=flat" alt="DanieliAbreu" /> </p>
  <div>
