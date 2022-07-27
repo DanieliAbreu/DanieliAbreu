@@ -1,21 +1,24 @@
-## Bem-vindo(a) ao perfil da Danieli Abreu 😁
+ <h1 align="center"> Bem-vindo(a) sou Danieli Abreu 😁</h1>
+ <h5 align="rigth">Sou estudante de Análise e Desenvolvimento de Sistemas em transição de carreira. Aqui você poderá encontrar meus projetos e estudos de minha jornada.</h5>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DanieliAbreu&label=Profile%20views&color=0e75b6&style=flat" alt="DanieliAbreu" /> </p>
  <div>
    <a href="https://github.com/DanieliAbreu">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanieliAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieliAbreu&layout=compact&langs_count=6&theme=tokyonight"/>
 
+   <h3 align="left">Linguagens e Ferramentas que já possuo conhecimento e com estudos em andamento: </h3>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
  
  <br>
  
-  ### Fique a vontade para entrar em contato comigo nas redes abaixo!
+  <h3 align="left">Fique a vontade para entrar em contato comigo nas redes abaixo!</h3 
  
 <div> 
   <a href="https://instagram.com/danieliabreu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
